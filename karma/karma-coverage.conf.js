@@ -26,7 +26,7 @@ module.exports = function(config) {
     plugins: ['karma-jasmine', 'karma-firefox-launcher',
       'karma-chrome-launcher', 'karma-phantomjs-launcher'],
     preprocessors: {
-      'src/**/*[!.spec.].js': ['coverage']
+     'src/**/!(*spec).js': ['coverage']
     },
 
     // test results reporter to use
