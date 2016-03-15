@@ -13,7 +13,9 @@
     "url": ""
   },
   "readmeFilename": "readme.md",
-  "dependencies": {},
+  "dependencies": {
+    "wallaby-webpack": "0.0.18"
+  },
   "devDependencies": {
     "colors": "~1.1.x",
     "commander": "^2.5.0",

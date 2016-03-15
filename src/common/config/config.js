@@ -30,5 +30,8 @@ angular.module('agile.config', [])
     },
     behave:{
       default: 'agile.behave'
+    },
+    culture:{
+      default: 'agile.culture'
     }
   });

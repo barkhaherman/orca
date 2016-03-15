@@ -21,7 +21,9 @@ angular.module(
     'agile.habitat',
     'agile.names',
     'agile.anatomy',
-    'agile.behave'
+    'agile.behave',
+    'agile.culture',
+    'agile.communication'
   ]
   )
   .config(
@@ -69,4 +71,5 @@ angular.module(
 
 function AgileController() {
   'use strict';
+  this.info = 'cow';
 }
