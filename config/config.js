@@ -50,7 +50,7 @@ module.exports = {
 
       'vendor/angular-ui-router/release/angular-ui-router.js',
 
-      'vendor/lodash/lodash.min.js',
+      'vendor/lodash/dist/lodash.min.js',
       'vendor/angular-bootstrap/ui-bootstrap-tpls.min.js',
       'vendor/moment/moment.js',
       'vendor/angular-moment/angular-moment.js',
@@ -66,7 +66,7 @@ module.exports = {
 
       'vendor/angular-ui-router/release/angular-ui-router.min.js',
 
-      'vendor/lodash/lodash.min.js',
+      'vendor/lodash/dist/lodash.min.js',
       'vendor/angular-bootstrap/ui-bootstrap-tpls.min.js',
       'vendor/moment/moment.js',
       'vendor/angular-moment/angular-moment.min.js',

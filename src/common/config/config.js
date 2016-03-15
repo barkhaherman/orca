@@ -12,5 +12,23 @@ angular.module('agile.config', [])
     },
     featureA: {
       default: 'agile.featureA'
+    },
+    diet: {
+      default: 'agile.diet'
+    },
+    mating: {
+      default: 'agile.mating'
+    },
+    habitat: {
+      default: 'agile.habitat'
+    },
+    names:{
+      default: 'agile.names'
+    },
+    anatomy:{
+      default: 'agile.anatomy'
+    },
+    behave:{
+      default: 'agile.behave'
     }
   });
